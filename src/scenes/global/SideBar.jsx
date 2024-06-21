@@ -286,6 +286,9 @@ const SideBar = () => {
         "& .pro-menu-item.active": {
           color: "#6870fa !important",
         },
+        "& .css-dip3t8": {
+          backgroundColor: `${colors.primary[400]}`,
+        },
       }}
     >
       <Sidebar collapsed={isCollapsed}>
