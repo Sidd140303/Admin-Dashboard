@@ -61,7 +61,7 @@ const SideBar = () => {
         },
         "& .css-dip3t8": {
           backgroundColor: `${colors.primary[400]}`,
-          height: "100vh",
+          height: '1000px'
         },
       }}
     >
@@ -208,13 +208,6 @@ const SideBar = () => {
               title="Line Chart"
               to="/line"
               icon={<TimelineOutlinedIcon />}
-              selected={selected}
-              setSelected={setSelected}
-            />
-            <Item
-              title="Geography Chart"
-              to="/geography"
-              icon={<MapOutlinedIcon />}
               selected={selected}
               setSelected={setSelected}
             />
