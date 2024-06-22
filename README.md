@@ -21,3 +21,7 @@ Features :
 5. Upcoming Kanban Board
 * Work in Progress: The Kanban board feature is currently under development and will be available in a future update.
 * Task Management: Once completed, it will allow for intuitive task management with drag-and-drop capabilities and customizable columns.
+
+Acknowledgments  
+* Nivo Charts: For providing the excellent charting library used in this app.   
+* React: For the framework that makes building such applications possible.   
